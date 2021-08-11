@@ -6,7 +6,7 @@ Update and Upgrade the computer
 sudo apt update
 sudo apt upgrade
 
-===================================================================================================
+
 Download the “GPS_Plotting” repository
 git clone https://github.com/zahoov/GPS_Plotting.git
 
@@ -19,7 +19,7 @@ Move the Data and Docs folders from the open-elevation repository to the GPS_Plo
 mv open-elevation-custom-api/Data GPS_Plotting
 mv open-elevation-custom-api/Docs GPS_Plotting
 
-===================================================================================================
+
 Install the requisite packages listed:
 ===================================================================================================
 Basic software that is probably already installed but is required so make sure they are
